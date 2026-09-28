@@ -18,7 +18,7 @@
 ## About
 
 I'm an FP&A specialist at a 5G / fixed-wireless telecom operator in Tashkent — budgeting,
-cash flow forecasting, variance analysis and lender covenant reporting. Before that I spent two
+cash flow forecasting and variance analysis. Before that I spent two
 years at EY in business analysis and advisory. I'm moving that work into data science and
 machine learning: same problems, better tools.
 
